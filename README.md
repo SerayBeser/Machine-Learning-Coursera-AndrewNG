@@ -1,10 +1,11 @@
 # Machine Learning Course taught by AndrewNG
 This repo contains Programming assignments (with Octave and Python) from Coursera's Machine Learning course taught by Andrew Ng. 
 
-Bu repo Coursera'daki AndrewNG'nin düzenlediği Makine Öğrenmesi Dersinin Programlama Ödevlerini içeriyor.
+__Bu repo Coursera'daki AndrewNG'nin düzenlediği Makine Öğrenmesi Dersinin Programlama Ödevlerini içeriyor.__
 
 ##  with_octave
 Solutions to Andrew Ng's Coding Assignments with OCTAVE
+
 __machine-learning-ex1__ : Programming Exercise 1: Linear Regression
 
 __machine-learning-ex2__ : Programming Exercise 2: Logistic Regression
@@ -24,7 +25,7 @@ __machine-learning-ex8__ : Programming Exercise 8: Anomaly Detection and Recomme
 ##  with_python 
 Solutions to Andrew Ng's Coding Assignments with PYTHON.
 
-### Bu bölümde ödevlerin türkçesine ulaşabilirsiniz..
+# Bu bölümde ödevlerin türkçesine ulaşabilirsiniz..
 
 __machine-learning-ex1__ : Programming Exercise 1: Linear Regression
                            
