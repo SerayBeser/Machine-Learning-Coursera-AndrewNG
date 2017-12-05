@@ -24,7 +24,7 @@ __machine-learning-ex8__ : Programming Exercise 8: Anomaly Detection and Recomme
 ##  with_python 
 Solutions to Andrew Ng's Coding Assignments with PYTHON.
 
-### Programlama Ödevlerini Python ile Kodlarken, ödevlerin türkçesine ulaşabilirsiniz..
+### Bu bölümde ödevlerin türkçesine ulaşabilirsiniz..
 
 __machine-learning-ex1__ : Programming Exercise 1: Linear Regression
                            
